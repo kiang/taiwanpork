@@ -101,6 +101,7 @@ function pointStyleFunction(f) {
 var previousFeature = false;
 var currentFeature = false;
 function showPoint(pointId) {
+  firstPosDone = true;
   $('#findPoint').val(pointId);
   
   var features = vectorPoints.getSource().getFeatures();
