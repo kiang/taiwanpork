@@ -124,6 +124,7 @@ function showPoint(pointId) {
       //message += '<a href="#' + p.badge_code + '" target="_blank">' + p.market_name + '</a>';
       message += p.market_name;
       message += '</td></tr>';
+      message += '<tr><th scope="row">標章代碼</th><td>' + p.badge_code + '</td></tr>';
       message += '<tr><th scope="row">介紹</th><td>' + p.context.replace(/\\n/g, '<br />') + '</td></tr>';
       message += '<tr><th scope="row">住址</th><td>' + p.addr + '</td></tr>';
       message += '<tr><th scope="row">營業天</th><td>' + p.business_week + '</td></tr>';
