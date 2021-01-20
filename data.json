@@ -37395,6 +37395,21 @@
         "business_hours_end": "22:00"
     },
     {
+        "market_name": "越南烤肉串",
+        "addr": "臺北市中正區中華路二段313巷20號",
+        "business_week": "星期一,星期二,星期三,星期四,星期五,星期六,星期日",
+        "context": "本店販售燒烤豬肉串.豬長串等產品，使用優質國產豬肉",
+        "ValidDate": "2023-12-26",
+        "Lontitude": 121.506469,
+        "Latitude": 25.0284,
+        "case_code": "2020122400081",
+        "last_edited_date": "2021-01-20 07:30:03",
+        "type": "餐飲",
+        "badge_code": "B001687",
+        "business_hours": "17:00",
+        "business_hours_end": "23:00"
+    },
+    {
         "market_name": "王師傅古早味芋頭粥",
         "addr": "臺北市中正區中華路二段307巷南機場夜市第10攤",
         "business_week": "星期一,星期二,星期三,星期四,星期五,星期六",
