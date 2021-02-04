@@ -35445,21 +35445,6 @@
         "business_hours_end": "22:00"
     },
     {
-        "market_name": "中田商號",
-        "addr": "臺中市東區建成路500號",
-        "business_week": "",
-        "context": "無",
-        "ValidDate": "2023-12-12",
-        "Lontitude": 120.695437,
-        "Latitude": 24.134452,
-        "case_code": "2020121101582",
-        "last_edited_date": "2021-01-26 08:30:29",
-        "type": "其他經本會確認全數使用臺灣豬為原料之業者",
-        "badge_code": "D001612",
-        "business_hours": "2：00",
-        "business_hours_end": "12：00"
-    },
-    {
         "market_name": "協發",
         "addr": "花蓮縣花蓮市中山路142-17號",
         "business_week": "",
