@@ -42855,51 +42855,6 @@
         "business_hours_end": "21:00"
     },
     {
-        "market_name": "玉意商號",
-        "addr": "臺南市玉井區中正路21巷1號",
-        "business_week": "星期二,星期三,星期四,星期五,星期六,星期日",
-        "context": "本店銷售肉品市場之溫體豬肉",
-        "ValidDate": "2024-01-29",
-        "Lontitude": 120.459495,
-        "Latitude": 23.123362,
-        "case_code": "2020122500017",
-        "last_edited_date": "2021-02-08 08:30:05",
-        "type": "販售",
-        "badge_code": "C002544",
-        "business_hours": "",
-        "business_hours_end": ""
-    },
-    {
-        "market_name": "石一籠湯包店",
-        "addr": "臺南市白河區三民路416號",
-        "business_week": "星期二,星期三,星期四,星期五,星期六,星期日",
-        "context": "",
-        "ValidDate": "2024-01-29",
-        "Lontitude": 120.415541,
-        "Latitude": 23.35163,
-        "case_code": "2020123000066",
-        "last_edited_date": "2021-02-08 08:30:07",
-        "type": "餐飲",
-        "badge_code": "C002553",
-        "business_hours": "06:00",
-        "business_hours_end": "14:00"
-    },
-    {
-        "market_name": "嘉禾餐飲",
-        "addr": "臺南市學甲區濟生路131號",
-        "business_week": "星期一,星期二,星期三,星期四,星期五,星期六,星期日",
-        "context": "土托魚羹、火雞肉飯",
-        "ValidDate": "2024-01-29",
-        "Lontitude": 120.180992,
-        "Latitude": 23.232669,
-        "case_code": "2021010800002",
-        "last_edited_date": "2021-02-08 08:30:10",
-        "type": "餐飲",
-        "badge_code": "C002554",
-        "business_hours": "07:00",
-        "business_hours_end": "22:00"
-    },
-    {
         "market_name": "諾貝松早午餐",
         "addr": "高雄市大寮區中興路50號",
         "business_week": "星期一,星期三,星期四,星期五,星期六,星期日",
@@ -46003,6 +45958,21 @@
         "badge_code": "D003453",
         "business_hours": "11:00",
         "business_hours_end": "20:00"
+    },
+    {
+        "market_name": "台天商號",
+        "addr": "臺中市北區篤行路59號",
+        "business_week": "星期二,星期三,星期四,星期五,星期六,星期日",
+        "context": "本店使用國產豬肉",
+        "ValidDate": "2023-12-12",
+        "Lontitude": 120.676771,
+        "Latitude": 24.147313,
+        "case_code": "2020121101494",
+        "last_edited_date": "2021-02-19 04:30:09",
+        "type": "其他經本會確認全數使用臺灣豬為原料之業者",
+        "badge_code": "D001449",
+        "business_hours": "06:00",
+        "business_hours_end": "12:00"
     },
     {
         "market_name": "真男饌牛肉麵",
